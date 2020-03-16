@@ -51,14 +51,6 @@ dependencies {
 </dependency>
 ```
 
-**3. Clone the whole repository**
- - Open your **commandline-input** and navigate to the desired destination folder on your machine (where you want to place the library)
- - Use the command `git clone https://github.com/HeartlandSoftware/AndroidHeatMap.git` to download the full AndroidHeatMap repository to your computer (this includes the folder of the library as well as the folder of the example project)
- - Import the library folder (`AndroidHeatMap`) into Android Studio (recommended) or your Eclipse workspace
- - Add it as a reference to your project: 
-   - [referencing library projects in Eclipse](http://developer.android.com/tools/projects/projects-eclipse.html#ReferencingLibraryProject)
-   - [managing projects from Android Studio](https://developer.android.com/sdk/installing/create-project.html)
-
 ## Getting Started
 
 Add a HeatMap control to your xml layout.
