@@ -11,6 +11,8 @@
 
 ## Installation
 
+Installation of project into your Android studio app
+
 There are three different ways to use this library:
 
 **1. Gradle dependency** (recommended)
